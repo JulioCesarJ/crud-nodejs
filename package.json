@@ -1,0 +1,43 @@
+{
+  
+  "name": "nodejs---dicas-para-devs",
+  
+  "version": "1.0.0",
+  
+  "main": "index.js",
+  
+  "dependencies": {
+  
+    
+  "dotenv": "^16.3.1",
+  
+    
+  "ejs": "^3.1.9",
+  
+    
+  "express": "^4.18.2",
+  
+    
+  "mongoose": "^7.4.2",
+  
+    
+  "node": "^20.5.0",
+  
+    
+  "nodemon": "^3.0.1"
+  
+  },
+  
+  "scripts": {
+  
+    
+  "start:dev": "nodemon index.js"
+  
+  },
+  
+  "author": "",
+  
+  "license": "ISC",
+  
+  "description": ""
+}
